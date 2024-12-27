@@ -20,24 +20,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+universo infinito: explorando o desconhecido              
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+O universo infinito é um vasto mistério que desperta a curiosidade humana. Com bilhões de estrelas e galáxias além do que conseguimos ver, ele representa o desconhecido que nos fascina e nos desafia a explorar. O sonho de conhecer o espaço é uma busca constante por respostas sobre nossa origem, a vida além da Terra e os segredos cósmicos que ainda estão por descobrir. Cada avanço científico nos aproxima dessa imensidão, alimentando nossa imaginação e nos lembrando de que o verdadeiro entendimento do
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+freepik  e chatgpt
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
+pesquisando um titulo adequado no chatgpt sobre o assunto do universo e procurei a imagem no freepik   
 Apresente os resultados do seu projeto
-
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+a pessoa na imagem saiu bem mas a imagem de fundo eu esperava um fundo mais realista                                                                                                                                                                                                                                                                        Comente sobre o desafio de criar algo 'natty' com IA.
+achei interesante pois vi aonde vai o poder do ia 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
