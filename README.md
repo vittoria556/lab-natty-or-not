@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#"O Jornalista na Era Digital: Entre a Informação Instantânea e a Busca pela Verdade"  ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+**"O Jornalista na Era Digital: Entre a Informação Instantânea e a Busca pela Verdade"**
 
+Neste cenário dinâmico da comunicação digital, os jornalistas enfrentam o desafio de equilibrar a necessidade de entregar notícias rapidamente com a responsabilidade de garantir a veracidade da informação. A velocidade das redes sociais e a pressão por atualizações contínuas colocam em risco a profundidade e a precisão das reportagens. Este título explora como os profissionais da imprensa estão adaptando suas práticas para se manterem fiéis aos princípios éticos do jornalismo, enquanto navegam em um ambiente onde o rumor e a desinformação muitas vezes se confundem com a verdade.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+chatgpt e freepik
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+surgiu a partir de uma análise das mudanças profundas que o jornalismo sofreu com o advento das tecnologias digitais. As plataformas de mídia social, a facilidade de disseminação de notícias e a pressão por produção constante criaram um cenário em que os jornalistas precisam lidar com a velocidade das informações sem perder o compromisso com a precisão e a ética jornalística.
 
+A partir dessa realidade, surgiu o dilema central: enquanto a era digital exige que os jornalistas sejam rápidos e reativos, ela também coloca em risco a verificação das fontes e a profundidade das apurações. A ideia foi destacar esse equilíbrio delicado entre informar instantaneamente e manter a integridade das reportagens.
+
+Além disso, a busca pela verdade tornou-se um ponto crucial, pois, no universo digital, onde qualquer pessoa pode compartilhar uma "notícia", a responsabilidade dos jornalistas se torna ainda mais significativa. O desafio é filtrar o que é relevante e verdadeiro em um mar de dados, informações e, muitas vezes, desinformação. Essa reflexão sobre o papel transformador do jornalista na atualidade gerou a ideia central para o conteúdo.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+achei a imagem bem realista parecendo ser de verdade 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+foi util para temos uma  visao de como a tecnologia avançou muito em pouco tempo[pikaso-creations.zip](https://github.com/user-attachments/files/18300638/pikaso-creations.zip)
+
 ```
 
 ### Exemplos e Insigths
